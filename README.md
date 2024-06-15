@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rahulcheryala
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning the MERN (MongoDB, Express.js, React.js, Node.js) stack.
+- 🌱 I’m currently learning the NEXT and Three.js.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me: You can reach me on [LinkedIn](https://www.linkedin.com/in/rahulcheryala/) or via email at rahulcheryala787@gmail.com.
 - 📄 [My resume](https://rahulcheryala.github.io/Resume/)
